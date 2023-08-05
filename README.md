@@ -2,9 +2,9 @@
 >Open Beta Akses
 >Sabtu 5/Agustus/2023 13:25.WIB
 
-##link download yang telah di sediakan
+## klik link download yang telah di sediakan
 install dan coba sekarang [ download ](https://firebasestorage.googleapis.com/v0/b/mobile-store-id.appspot.com/o/Mobile_Apps.apk?alt=media&token=a0114aa4-2a89-4c8e-8750-7e8b2e51c913)
-###Deskripsi.
+### Deskripsi.
 ```
 aplikasi Mobile Apps.id di rancang agar mudah
 untuk di gunakan untuk semua orang fitur
