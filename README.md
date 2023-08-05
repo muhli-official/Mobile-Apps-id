@@ -1,4 +1,4 @@
-##Mobile Apps.id
+## Mobile Apps.id
 >Open Beta Akses
 >Sabtu 5/Agustus/2023 13:25.WIB
 
@@ -13,7 +13,7 @@ aplikasi Mobile Apps.id di rancang agar mudah untuk di gunakan untuk semua orang
 4. upload semua link website/hosting via cloud 
 5. bagikan short link atau link download
 ```
-###Sedikit Informasi.
+### Sedikit Informasi.
 ```
 kami tidak mengumpulkan data pribadi dan tidak 
 ada login jadi kamu bisa menggunakan aplikasi 
@@ -27,6 +27,6 @@ meningkatkan performa aplikasi kami agar menjadi
 lebih baik dan layak untuk digunakan untuk semua orang.
 ```
 
-###credits
+### credits
 >muhli.official.service@gmail.com
 >+62 85861878610 / negara Indonesia
